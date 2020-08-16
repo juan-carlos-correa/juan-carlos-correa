@@ -7,7 +7,7 @@ Hello world! I'm Juan Correa, experienced software engineer with over 5 years of
 - Creator of Developero, YouTube channel where i publish tutorials about software development :sunglasses:
 - Medium writer :pencil2:
 - Self taught, curios and very good at working with multidisciplinary teams :white_check_mark:
-- Very interested on Javascript world, Reactjs and Node are in my :hear:
+- Very interested on Javascript world, Reactjs and Node are in my :heart:
 - Open mind to new technologies, the world is changing very fast :zap:
 
 Let's build awesome apps!
