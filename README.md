@@ -4,6 +4,8 @@
 
 Hello world! I'm Juan Correa, experienced software engineer with over 5 years of experience of work in apps development :full_moon_with_face:
 
+## Things and resoures that might interest you:
+
 - :sunglasses: Creator of Developero, [YouTube channel](https://www.youtube.com/c/Developero) where i publish tutorials about software development.
 - :pencil2: [Medium](https://medium.com/@juan.correa.herrera) and [blog post](https://developero.io/) writter.
 - :book: Author Ebook: [Patrones avanzados en React JS](https://amzn.to/348hbXg)
@@ -14,4 +16,4 @@ Hello world! I'm Juan Correa, experienced software engineer with over 5 years of
 
 [![Juan's github stats](https://github-readme-stats.vercel.app/api?username=juan-carlos-correa)](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-carlos-correa&layout=compact&hide=html)
 
-Let's build awesome apps!
+:fire: Let's build awesome apps!
