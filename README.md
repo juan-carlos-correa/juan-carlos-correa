@@ -1,4 +1,4 @@
-![cover-image](https://media-exp1.licdn.com/dms/image/C4E16AQG7wJk8XJ8Gew/profile-displaybackgroundimage-shrink_350_1400/0?e=1603324800&v=beta&t=bq0JWJrUV7DhRHllE83VFiHWLLiPbeJpxKec9i1kdeQ)
+![cover-image](https://scontent.fgdl9-1.fna.fbcdn.net/v/t1.0-9/103592455_1324344591103806_1986597021138587857_o.png?_nc_cat=102&ccb=2&_nc_sid=e3f864&_nc_ohc=DR7Ic_TLm9IAX8SOcJZ&_nc_ht=scontent.fgdl9-1.fna&oh=3aaa206f1aa1c69804c8056b1fccf637&oe=60102338)
 
 # Software Engineer - Full stack JS
 
@@ -10,6 +10,7 @@ Hello world! I'm Juan Correa, experienced software engineer with over 5 years of
 - :pencil2: [Medium](https://medium.com/@juan.correa.herrera) and [blog post](https://developero.io/) writter.
 - :book: Author Ebook: [Patrones avanzados en React JS](https://amzn.to/348hbXg)
 - :book: Author Ebook: [React Hooks Manual Desde Cero](https://amzn.to/2SfLINb)
+- :book: Author Ebook: [Introducción al Testing en Javascript](https://amzn.to/34Nz9PZ)
 - :white_check_mark: Self taught, curios and very good at working with multidisciplinary teams.
 - :heart: Very interested on Javascript world, Reactjs and Node.
 - :zap: Open mind to new technologies, the world is changing very fast.
