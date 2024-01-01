@@ -4,15 +4,13 @@
 
 Hello world! I'm Juan Correa, experienced software engineer with over 5 years of experience of work in apps development :full_moon_with_face:
 
-## Things and resoures that might interest you:
+## Things and resoures that might interest you (Spanish):
 
 - :sunglasses: Creator of Developero, [YouTube channel](https://www.youtube.com/c/Developero) where i publish tutorials about software development.
-- :pencil2: [Medium](https://medium.com/@juan.correa.herrera) and [blog post](https://developero.io/) writter.
-- :book: Author Ebook: [Patrones avanzados en React JS](https://amzn.to/348hbXg)
-- :book: Author Ebook: [React Hooks Manual Desde Cero](https://amzn.to/2SfLINb)
-- :book: Author Ebook: [Introducción al Testing en Javascript](https://amzn.to/34Nz9PZ)
-- :watch: Curso [Patrones Avanzados en React JS](https://www.udemy.com/course/react-js-patrones/?referralCode=FF3F91AFC79C5837D13E)
-- :watch: Curso [Test Driven Development en React JS](https://www.udemy.com/course/tdd-react-js/?referralCode=F40803D2C4D2934AB038)
+- :pencil2: Blog writter at [Developero blog](https://developero.io/).
+- :book: Author Ebook: [Patrones avanzados en React JS](https://developero.gumroad.com/l/patrones-react-js).
+- :watch: YouTube Course [Patrones Avanzados en React JS](https://www.youtube.com/playlist?list=PLkr7dGY4D2sOyjBKXyNhtkIwO3suaqotD).
+- :watch: Udemy Course [Test Driven Development en React JS](https://www.udemy.com/course/tdd-react-js/?referralCode=F40803D2C4D2934AB038).
 
 [![Juan's github stats](https://github-readme-stats.vercel.app/api?username=juan-carlos-correa)](https://github-readme-stats.vercel.app/api/top-langs/?username=juan-carlos-correa&layout=compact&hide=html)
 
